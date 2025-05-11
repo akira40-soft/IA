@@ -1,0 +1,9 @@
+Flask
+requests
+numpy
+sentence-transformers
+tensorflow 
+generativeai
+anthropic
+cohere
+keras
